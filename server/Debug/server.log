@@ -1,0 +1,3 @@
+﻿  server.cpp
+C:\Users\Виктор\source\repos\tcp\server\server.cpp(137,21): warning C4018: <: несоответствие типов со знаком и без знака
+  server.vcxproj -> C:\Users\Виктор\source\repos\tcp\Debug\server.exe
